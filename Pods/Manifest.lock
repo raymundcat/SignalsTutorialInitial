@@ -1,0 +1,12 @@
+PODS:
+  - Signals (4.0.0)
+
+DEPENDENCIES:
+  - Signals (~> 4.0)
+
+SPEC CHECKSUMS:
+  Signals: 6d818e1b7c39f2bf61cfef30bf314329990d1853
+
+PODFILE CHECKSUM: 3751fd0f944b8cfc70c5c337fe7964afc85ec049
+
+COCOAPODS: 1.1.1
